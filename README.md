@@ -1,4 +1,4 @@
-# ChatGPT-Telegram-Bot-on-Python
+# ChatGPT Telegram Bot on Python
 ChatGPT Telegram Bot on Python (OpenAI)
 <p>Hi first we have to create our bot with Bot Father how much you have finished it will give you a token you have to paste it in the code then you have to go to OpenAI Api key how much you have taken Api Key you have to paste it in the code.</p>
 <ul>
