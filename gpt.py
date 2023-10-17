@@ -4,15 +4,15 @@ from aiogram import Bot, Dispatcher, executor, types # pip install aiogram
 
 
 
-openai.api_key = "api_key"  
-bot = Bot(token='token_Bot')
+openai.api_key = "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"  
+bot = Bot(token='6616667145:AAGcbkLeLMpMrlwCR6en2qNDMYgQatjCCSk')
 dp = Dispatcher(bot)
 
 
 
 @dp.message_handler(commands=['start'])
 async def send_welcome(message: types.Message):
-    await message.reply("Hi!\nI'm EchoBot!")
+    await message.reply("Hi!\nI'm Anggazyy-AI Bot!, mau cari apa? nanti aku bantuin cari ya^^")
 
 
 
